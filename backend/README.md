@@ -1,11 +1,10 @@
 # AI-Powered Code Reviewer – Backend (MERN Stack)
 
-This is the backend for the AI-powered code reviewer application built using **Node.js** and **MongoDB**.
+This is the backend for the AI-powered code reviewer application built using **Node.js** and **Gemini API**.
 
 ## 🔧 Technologies Used
 - Node.js
-- MongoDB (Mongoose)
-- OpenAI/Gemini API (optional, for AI integration)
+- Gemini API (for AI integration)
 - JWT for authentication
 - dotenv for environment management
 
