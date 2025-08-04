@@ -28,6 +28,7 @@ An intelligent full-stack web application that uses artificial intelligence to *
 
 ## 📂 Project Structure
 
+```
 ai-code-reviewer/
 ├── client/ # React frontend
 │ ├── public/
@@ -39,24 +40,24 @@ ai-code-reviewer/
 │ └── server.js
 ├── .gitignore
 ├── README.md
-
+```
 ---
 
 ## 🚀 Quick Start
 
-# Clone repo
+**Clone repo**:  
 - git clone https://github.com/vishalshinde-30/AI-Powerd-Code-Reviewer.git
 
-# Install backend
+**Install backend**:  
 - cd backend && npm install
 
-# Install frontend
+**Install frontend**:  
 - cd ../client && npm install
 
-# Run backend
+**Run backend**:  
 - cd ../backend && npm run dev
 
-# Run frontend
+**Run frontend**:
 - cd ../client && npm start
 
 ---
